@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JE4ZTm2QoIDGECf8iW6e6myEPPGI5fckWTt3kT+U5Hs=",
+  "Source": "SampleApplication-Backend",
+  "BasePath": "_content/SampleApplication-Backend",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
