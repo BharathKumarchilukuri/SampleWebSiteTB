@@ -30,3 +30,9 @@ D:\Bharath Kumar - Personal\Folders\NET\SampleApplication-Backend\obj\Debug\net8
 D:\Bharath Kumar - Personal\Folders\NET\SampleApplication-Backend\obj\Debug\net8.0\SampleApplication-Backend.pdb
 D:\Bharath Kumar - Personal\Folders\NET\SampleApplication-Backend\obj\Debug\net8.0\SampleApplication-Backend.genruntimeconfig.cache
 D:\Bharath Kumar - Personal\Folders\NET\SampleApplication-Backend\obj\Debug\net8.0\ref\SampleApplication-Backend.dll
+D:\Bharath Kumar - Personal\Folders\NET\SampleApplication-Backend\bin\Debug\net8.0\publish\web.config
+D:\Bharath Kumar - Personal\Folders\NET\SampleApplication-Backend\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\Bharath Kumar - Personal\Folders\NET\SampleApplication-Backend\bin\Debug\net8.0\publish\appsettings.json
+D:\Bharath Kumar - Personal\Folders\NET\SampleApplication-Backend\bin\Debug\net8.0\publish\SampleApplication-Backend.deps.json
+D:\Bharath Kumar - Personal\Folders\NET\SampleApplication-Backend\bin\Debug\net8.0\publish\SampleApplication-Backend.runtimeconfig.json
+D:\Bharath Kumar - Personal\Folders\NET\SampleApplication-Backend\obj\Debug\net8.0\SampleApplication-Backend.sourcelink.json

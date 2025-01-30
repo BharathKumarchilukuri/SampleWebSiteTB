@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace SampleApplication_Backend.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/Bharath")]
     [ApiController]
     public class HelloWorldController : ControllerBase
     {
